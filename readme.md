@@ -1,5 +1,12 @@
 # Exceptions and debugging
 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
+
+<div class="container">
+<div class="alert alert-primary" role="alert">
+  A simple primary alert—check it out!
+</div>
+<div>
 Written with .NET Framework 4.8, zero advantages for this code sample to use .NET Core Framework as this is all about debugging.
 
 ![#img](assets/ExceptionsDebugging.png)
@@ -19,3 +26,6 @@ The Visual Studio debugger can help you navigate through code to inspect the sta
 | :bulb: Note  |
 | :--- |
 | If this is the first time that you've tried to debug code, you may want to read [Debugging for absolute beginners](https://docs.microsoft.com/en-us/visualstudio/debugger/debugging-absolute-beginners?view=vs-2019&tabs=csharp) and [Debugging techniques and tools](https://docs.microsoft.com/en-us/visualstudio/debugger/write-better-code-with-visual-studio?view=vs-2019) before going through this article. |
+
+
+
