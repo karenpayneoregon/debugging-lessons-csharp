@@ -1,12 +1,6 @@
 # Exceptions and debugging
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
 
-<div class="container">
-<div class="alert alert-primary" role="alert">
-  A simple primary alert—check it out!
-</div>
-<div>
 Written with .NET Framework 4.8, zero advantages for this code sample to use .NET Core Framework as this is all about debugging.
 
 ![#img](assets/ExceptionsDebugging.png)
