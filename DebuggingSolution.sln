@@ -16,6 +16,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Class projects", "Class pro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseLibrary", "BaseLibrary\BaseLibrary.csproj", "{4651FEA0-D565-4C41-9ABB-C18A47F153DD}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Diagnostics", "Diagnostics", "{BF063C34-AFC8-4797-8DC3-9B6D53EE42B3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiagnosticScenarios", "DiagnosticScenarios\DiagnosticScenarios.csproj", "{373792C0-27E5-4DF9-850F-AF344A281B0D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,12 +34,17 @@ Global
 		{4651FEA0-D565-4C41-9ABB-C18A47F153DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4651FEA0-D565-4C41-9ABB-C18A47F153DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4651FEA0-D565-4C41-9ABB-C18A47F153DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{373792C0-27E5-4DF9-850F-AF344A281B0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{373792C0-27E5-4DF9-850F-AF344A281B0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{373792C0-27E5-4DF9-850F-AF344A281B0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{373792C0-27E5-4DF9-850F-AF344A281B0D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{4651FEA0-D565-4C41-9ABB-C18A47F153DD} = {23840400-CFE0-456B-9B58-B4B1EC074BE0}
+		{373792C0-27E5-4DF9-850F-AF344A281B0D} = {BF063C34-AFC8-4797-8DC3-9B6D53EE42B3}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9C6ABABC-2DB7-4EBC-98D3-E42D9A73F217}
